@@ -56,8 +56,8 @@ odin-linked-lists/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/<your-username>/linked-list.git
-   cd linked-list
+   git clone https://github.com/devxsameer/odin-linkedlists.git
+   cd odin-linkedlists
    ```
 
 1. Run the example
@@ -105,4 +105,5 @@ console.log(list.toString());
 ## 📝 License
 
 This project is part of [The Odin Project Curriculum](https://www.theodinproject.com/).
+
 Built with ❤️ by `Sameer Ali`.
